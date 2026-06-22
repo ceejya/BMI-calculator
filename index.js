@@ -26,7 +26,7 @@ function bmiCheck() {
             score.innerHTML = `your BMI is ${Math.ceil(calculatedBmi)}m2, which falls within the underweight range`
 
         }
-    }
+}
     inputElement01.value = ''
     inputElement02.value = ''
 
